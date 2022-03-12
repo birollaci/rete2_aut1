@@ -1,0 +1,2 @@
+# rete2_aut1
+RendszertervezesLabor2_AUT1
